@@ -39,7 +39,17 @@ In order to perform data pre-processing, the following aspects are considered to
 
 ## Visualization (Word cloud)
 
-![](Project/Images/Rplots_WC.jpg)
+![](Project/Images/Rplots_WC.png)
+
+## Visualization (Charts)
+
+![](Project/Images/Rplot_WW_Sentiment.png)
+
+![](Project/Images/Rplot_AQ_Sentiment.png)
+
+![](Project/Images/Rplot_CM_Sentiment.png)
+
+![](Project/Images/Rplot_BP_Sentiment.png)
 
 ## Main Packages used
 

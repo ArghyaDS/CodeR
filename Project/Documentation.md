@@ -37,6 +37,10 @@ In order to perform data pre-processing, the following aspects are considered to
 
 *Lexical Analysis:* I have used uni-gram comparison to the pre-loaded text database, the tweets are assigned over sentiment score – positive or negative and overall score is calculated. I have presented the scores and the tweets with word cloud and column chart for better visualization.
 
+## Visualization (Word cloud)
+
+![Visualization of Word Cloud](Project/Rplots_WC.jpg)
+
 ## Main Packages used
 
 *twitteR:* Provides an interface to the Twitter web API 

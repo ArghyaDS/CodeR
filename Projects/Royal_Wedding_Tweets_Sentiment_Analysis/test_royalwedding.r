@@ -7,10 +7,10 @@ library(wordcloud)
 library(syuzhet)
 
 # authorisation keys
-consumer_key = "CHfCGOUA4n79rPfUv51ho3KuZ" 
-consumer_secret = "oIaYcqSO4cPIdTI6AQgNnEPF43liHDmT8McWhzuWb5s07yLRW6" 
-access_token = "3301214961-dyFRicbKPGZnBdObGB2C0327GhhQGUsA3Gpc1x3" 
-access_secret ="pA3YcHPcHfk2wpyCtczCQQnfY37TzmGc2K3mUJ2zjpTtD" 
+consumer_key <- "Enter consumer_key" 
+consumer_secret <- "Enter consumer_key" 
+access_token <- "Enter access_token" 
+access_secret <- "Enter access_secret" 
 
 # set up
 setup_twitter_oauth(consumer_key,consumer_secret,access_token, access_secret)

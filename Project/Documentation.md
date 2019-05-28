@@ -27,36 +27,45 @@ Twitter Authentication to access API is obtained through developer twitter accou
 ## Cleaning Data and Pre-processing
 
 In order to perform data pre-processing, the following aspects are considered to reduce the discrepancies from the sentiment analysis work.
-1.	Extra punctuation marks
-2.	Redundant Blank spaces
-3.	Usernames
-4.	Hash-tags
-5.	Stop words
-6.	URLS
-7.	Algorithm used
-Lexical Analysis: I have used uni-gram comparison to the pre-loaded text database, the tweets are assigned over sentiment score – positive or negative and overall score is calculated. I have presented the scores and the tweets with word cloud and column chart for better visualization.
+
+* Extra punctuation marks
+* Redundant Blank spaces
+* Usernames
+* Hash-tags
+* Stop words
+* URLS
+
+*Lexical Analysis:* I have used uni-gram comparison to the pre-loaded text database, the tweets are assigned over sentiment score – positive or negative and overall score is calculated. I have presented the scores and the tweets with word cloud and column chart for better visualization.
 
 ## Main Packages used
 
-twitteR: Provides an interface to the Twitter web API 
+*twitteR:* Provides an interface to the Twitter web API 
 
-stringr: String operations in R 
+*stringr:* String operations in R 
 
-ROAuth: Provides an interface to the OAuth 1.0 specification allowing users to authenticate via OAuth to the server of their choice. 
+*ROAuth:* Provides an interface to the OAuth 1.0 specification allowing users to authenticate via OAuth to the server of their choice. 
 
-ggplot2: An implementation of the grammar of graphics in R. It combines the advantages of both base and lattice graphics: conditioning and shared axes are handled automatically, and you can still build up a plot step by step from multiple data sources. 
+*ggplot2:* An implementation of the grammar of graphics in R. It combines the advantages of both base and lattice graphics: conditioning and shared axes are handled automatically, and you can still build up a plot step by step from multiple data sources. 
 
-tm: A framework for text mining applications within R.
+*tm:* A framework for text mining applications within R.
 
 ## Limitations and Future Work
 
 Some limitations exist in this work; mentioned as following:
-A.	The Twitter Search API can get tweets up to a maximum of 7 days old.  
-B.	It cannot get 100% efficiency in analysing sentiment of tweets. 
-C.	Detect sarcasm in tweets 
-D.	Analyse images for emotions   
-E.	Find number of mentions of a particular organizations
+
+* The Twitter Search API can get tweets up to a maximum of 7 days old.  
+* It cannot get 100% efficiency in analysing sentiment of tweets. 
+* Detect sarcasm in tweets 
+* Analyse images for emotions   
+* Find number of mentions of a particular organizations
 
 # Conclusion
 
 Data visualization is the presentation of data in a pictorial or graphical format. It enables decision makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. With interactive visualization, you can take the concept a step further by using technology to drill down into charts and graphs for more detail, interactively changing what data you see and how it’s processed. Tables, bar plots, histograms and pie charts can be used for visualization. I have presented the implementation over visualization so that collected primary data could be viewed along with its values.
+
+# Acknowledgements
+
+* Anandarajan, M., Hill, C. and Nolan, T., 2019. Sentiment Analysis of Movie Reviews Using R. In Practical Text Analytics(pp. 193-220). Springer, Cham.
+* Jagdale, R.S., Shirsat, V.S. and Deshmukh, S.N., 2019. Sentiment analysis on product reviews using machine learning techniques. In Cognitive Informatics and Soft Computing (pp. 639-647). Springer, Singapore.
+* Redhu, S., Srivastava, S., Bansal, B. and Gupta, G., 2018. Sentiment Analysis Using Text Mining: A Review. International Journal on Data Science and Technology, 4(2), p.49.
+* Satija, T. and Thareja, R., 2018. Sentiment Analysis Using Twitter Mining in R Language.

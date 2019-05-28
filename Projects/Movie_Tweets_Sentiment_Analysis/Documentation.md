@@ -39,7 +39,17 @@ In order to perform data pre-processing, the following aspects are considered to
 
 ## Visualization (Word cloud)
 
-![](Project/Images/Rplots_WC.jpg)
+![Visualization of Word Cloud](https://github.com/ArghyaDS/CodeR/blob/master/Project/Images/Rplots_WC.png)
+
+## Visualization (Charts)
+
+![Sentiment Value Chart over Wonder Woman movie tweets](https://github.com/ArghyaDS/CodeR/blob/master/Project/Images/Rplot_WW_Sentiment.png)
+
+![Sentiment Value Chart over Aquaman movie tweets](https://github.com/ArghyaDS/CodeR/blob/master/Project/Images/Rplot_AQ_Sentiment.png)
+
+![Sentiment Value Chart over Captain Marvel movie tweets](https://github.com/ArghyaDS/CodeR/blob/master/Project/Images/Rplot_CM_Sentiment.png)
+
+![Sentiment Value Chart over Black Panther movie tweets](https://github.com/ArghyaDS/CodeR/blob/master/Project/Images/Rplot_BP_Sentiment.png)
 
 ## Main Packages used
 

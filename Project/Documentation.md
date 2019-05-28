@@ -39,7 +39,7 @@ In order to perform data pre-processing, the following aspects are considered to
 
 ## Visualization (Word cloud)
 
-<img src="Project/Rplots_WC.jpg">
+![](Project/Images/Rplots_WC.jpg)
 
 ## Main Packages used
 

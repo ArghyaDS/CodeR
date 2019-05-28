@@ -39,7 +39,7 @@ In order to perform data pre-processing, the following aspects are considered to
 
 ## Visualization (Word cloud)
 
-![](Project/Images/Rplots_WC.png)
+![](https://github.com/ArghyaDS/CodeR/blob/master/Project/Images/Rplots_WC.png)
 
 ## Visualization (Charts)
 
